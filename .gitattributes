@@ -1,1 +1,16 @@
+# =========================
+# Basic Cross-Platform Settings
+# =========================
+# Normalize line endings automatically for text files
+* text=auto
+
+# Files that should retain LF line endings (if needed):
+#.sh text eol=lf
+#.bash text eol=lf
+
+# Optional: If you have scripts or config that must remain with LF endings on Windows, uncomment above lines.
+
+# =========================
+# Client Version Export (if needed)
+# (this is the original line from clientversion.cpp)
 src/clientversion.cpp export-subst

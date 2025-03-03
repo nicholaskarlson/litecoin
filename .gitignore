@@ -1,4 +1,6 @@
-# Build artifacts
+# =========================
+# Build Artifacts
+# =========================
 build/
 *.o
 *.a
@@ -8,9 +10,25 @@ build/
 *.dll
 *.lib
 
-# Berkeley DB source (should not be in public repo)
+# Auto-generated build scripts & directories
+Makefile
+Makefile.in
+aclocal.m4
+configure
+build-aux/
+doc/man/Makefile
+doc/man/Makefile.in
+src/Makefile
+src/Makefile.in
+
+# =========================
+# Berkeley DB Source
+# (Should not be in public repo)
+# =========================
 db-4.8.30.NC/
 
-# OS generated files
+# =========================
+# OS Generated Files
+# =========================
 Thumbs.db
 .DS_Store
