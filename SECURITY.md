@@ -5,7 +5,7 @@
 At UseItCoin, we take security seriously. If you discover a vulnerability in the UseItCoin codebase, please report it as soon as possible.
 
 **To report security issues, send an email to:**  
-📧 **security@useitcoin.org** (For security vulnerabilities only, not general support.)
+📧 **security@useitcoin.com** (For security vulnerabilities only, not general support.)
 
 When reporting a security vulnerability, please provide:
 - A **detailed description** of the issue.
